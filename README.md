@@ -1,1 +1,1 @@
-# chained-diffuser.github.io
+# Chained Diffuser
